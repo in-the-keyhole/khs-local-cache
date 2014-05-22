@@ -21,9 +21,9 @@ Example Configurations
 
 Load States json data once
 
-  LocalCache.loadOnce('api/states');
+     LocalCache.loadOnce('api/states');
   
 Load Customer list refresh from server on change (i.e. put/post/delete)
 
-  LocalCache.refreshOnChange('api/customers');
+     LocalCache.refreshOnChange('api/customers');
 
