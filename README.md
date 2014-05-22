@@ -10,11 +10,11 @@ Transparent usage hooks into AJAX get/put/post calls...
 
 AMD Installation 
 
-   Comming soon...
+     Comming soon...
   
 Non AMD Installation
 
-  <script src='khs-local-cache.js'</script>
+     <script src='khs-local-cache.js'</script>
 
 Example Configurations
 ----------------------
